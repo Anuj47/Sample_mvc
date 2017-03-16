@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\GridViewMVCTest\GridViewMVCTest_DAL\bin\Debug\GridViewMVCTest_DAL.dll
+C:\Users\Administrator\Desktop\GridViewMVCTest\GridViewMVCTest_DAL\bin\Debug\GridViewMVCTest_DAL.pdb
+C:\Users\Administrator\Desktop\GridViewMVCTest\GridViewMVCTest_DAL\bin\Debug\GridViewMVCTest_BO.dll
+C:\Users\Administrator\Desktop\GridViewMVCTest\GridViewMVCTest_DAL\bin\Debug\GridViewMVCTest_BO.pdb
+C:\Users\Administrator\Desktop\GridViewMVCTest\GridViewMVCTest_DAL\obj\Debug\GridViewMVCTest_DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GridViewMVCTest\GridViewMVCTest_DAL\obj\Debug\GridViewMVCTest_DAL.dll
+C:\Users\Administrator\Desktop\GridViewMVCTest\GridViewMVCTest_DAL\obj\Debug\GridViewMVCTest_DAL.pdb
